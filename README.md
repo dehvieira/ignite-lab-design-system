@@ -40,13 +40,12 @@ $ git clone https://github.com/dehvieira/ignite-lab-design-system
 $ cd ignite-lab
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn dev
+$ npm run dev
 
 ```
-
 
 ## :memo: Design System ##
 
